@@ -10,7 +10,7 @@
 
 <script>
 import { yhBanner, yhBannerItem } from '@/components/Banner/index.js'
-import { getBanner } from '@/api/carioon'
+import { getBanner } from '@/api/cartoon'
 export default {
   name: 'HomeBanner',
   data () {

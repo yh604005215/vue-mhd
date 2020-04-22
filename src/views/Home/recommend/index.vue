@@ -34,7 +34,7 @@
           </div>
           <div class="text-group">
               <p class="item-name font-30">{{ data.bigbook_name }}</p>
-              <p class="item-hot font-24">人气：<span class="hot-hot">{{ data.clickratelong }}</span></p>
+              <p class="item-hot font-24">人气：<span class="hot-hot">{{ data.clickratelong | formatYi }}</span></p>
               <p class="item-text font-24">{{ data.brief }}</p>
           </div>
       </div>

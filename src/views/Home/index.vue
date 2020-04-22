@@ -32,7 +32,7 @@
 
 <script>
 import GoTop from '@/components/GoTop'
-import { getClassCar } from '@/api/carioon'
+import { getClassCar } from '@/api/cartoon'
 import recommend from './recommend'
 import HomeNav from './HomeNav'
 import HomeBanner from './HomeBanner'
